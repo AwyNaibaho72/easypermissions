@@ -1,1 +1,3 @@
-Not Found
+CONTRIBUTING.md=Not Found
+https://github.com/googlesamples/easypermissions/issues/371
+https://photos.google.com/share/AF1QipPRXcEG7YB8PLcm5LA2_QV48S0rhUc8ZKwndobASRliq7CfBFNpmddE9LMPGG5oWg?key=MHcyNVNQMkl3Y1Q3WENjT1Jtb2kxM2w2UHlIVU9n
